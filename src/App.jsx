@@ -2,7 +2,8 @@ import { useState } from "react";
 import { useFLIP } from "./FLIP-helper";
 
 // Gambar profil / avatar
-import avatarSrc from "./avatar.jpg";
+// import avatarSrc from "./avatar.jpg";
+import avatarSrc from "./training.png";
 
 // Screens
 import Links from "./screens/Links";
@@ -48,8 +49,8 @@ export default function App() {
                     <div className="profile-wrapper" ref={profileWrapperRef}>
                         <img src={avatarSrc} alt="Avatar" className="avatar-img" />
                         
-                        <h1>Nama Kamu</h1>
-                        <p>Deskripsi apa pun di sini</p>
+                        <h1>DWSuryo</h1>
+                        <p>ehe</p>
                     </div>
                 </section>
 

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.446aa90e.chunk.css",
-    "main.js": "/static/js/main.0ee98845.chunk.js",
-    "main.js.map": "/static/js/main.0ee98845.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18171a28.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18171a28.js.map",
-    "static/js/2.e900a4c3.chunk.js": "/static/js/2.e900a4c3.chunk.js",
-    "static/js/2.e900a4c3.chunk.js.map": "/static/js/2.e900a4c3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.446aa90e.chunk.css.map": "/static/css/main.446aa90e.chunk.css.map",
-    "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
-    "static/media/avatar.e756d916.jpg": "/static/media/avatar.e756d916.jpg"
+    "main.css": "/dwsuryo.github.io/webdevteti/static/css/main.446aa90e.chunk.css",
+    "main.js": "/dwsuryo.github.io/webdevteti/static/js/main.0ee98845.chunk.js",
+    "main.js.map": "/dwsuryo.github.io/webdevteti/static/js/main.0ee98845.chunk.js.map",
+    "runtime-main.js": "/dwsuryo.github.io/webdevteti/static/js/runtime-main.e7224b1a.js",
+    "runtime-main.js.map": "/dwsuryo.github.io/webdevteti/static/js/runtime-main.e7224b1a.js.map",
+    "static/js/2.e900a4c3.chunk.js": "/dwsuryo.github.io/webdevteti/static/js/2.e900a4c3.chunk.js",
+    "static/js/2.e900a4c3.chunk.js.map": "/dwsuryo.github.io/webdevteti/static/js/2.e900a4c3.chunk.js.map",
+    "index.html": "/dwsuryo.github.io/webdevteti/index.html",
+    "static/css/main.446aa90e.chunk.css.map": "/dwsuryo.github.io/webdevteti/static/css/main.446aa90e.chunk.css.map",
+    "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/dwsuryo.github.io/webdevteti/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
+    "static/media/avatar.e756d916.jpg": "/dwsuryo.github.io/webdevteti/static/media/avatar.e756d916.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18171a28.js",
+    "static/js/runtime-main.e7224b1a.js",
     "static/js/2.e900a4c3.chunk.js",
     "static/css/main.446aa90e.chunk.css",
     "static/js/main.0ee98845.chunk.js"

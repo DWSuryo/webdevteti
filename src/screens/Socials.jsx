@@ -4,8 +4,8 @@ export default function Socials() {
     return (
         <Card title="Connect with me">
             <ul>
-                <!--<li>Twitter: <a href="https://twitter.com/comfyte">@username</a></li>-->
                 <li>reddit: /u/Famas_1234</li>
+                <li>Discord: DWLight#0130</li?
             </ul>
         </Card>
     );

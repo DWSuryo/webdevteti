@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webdevteti/static/css/main.a9bdf616.chunk.css",
-    "main.js": "/webdevteti/static/js/main.0ee98845.chunk.js",
-    "main.js.map": "/webdevteti/static/js/main.0ee98845.chunk.js.map",
+    "main.js": "/webdevteti/static/js/main.d7f80b18.chunk.js",
+    "main.js.map": "/webdevteti/static/js/main.d7f80b18.chunk.js.map",
     "runtime-main.js": "/webdevteti/static/js/runtime-main.ef281b44.js",
     "runtime-main.js.map": "/webdevteti/static/js/runtime-main.ef281b44.js.map",
     "static/js/2.e900a4c3.chunk.js": "/webdevteti/static/js/2.e900a4c3.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/webdevteti/index.html",
     "static/css/main.a9bdf616.chunk.css.map": "/webdevteti/static/css/main.a9bdf616.chunk.css.map",
     "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/webdevteti/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
-    "static/media/avatar.e756d916.jpg": "/webdevteti/static/media/avatar.e756d916.jpg"
+    "static/media/training.0e2c5e04.png": "/webdevteti/static/media/training.0e2c5e04.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ef281b44.js",
     "static/js/2.e900a4c3.chunk.js",
     "static/css/main.a9bdf616.chunk.css",
-    "static/js/main.0ee98845.chunk.js"
+    "static/js/main.d7f80b18.chunk.js"
   ]
 }

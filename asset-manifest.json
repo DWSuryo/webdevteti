@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webdevteti/static/css/main.18134bcb.chunk.css",
+    "main.css": "/webdevteti/static/css/main.099412d7.chunk.css",
     "main.js": "/webdevteti/static/js/main.e3dab134.chunk.js",
     "main.js.map": "/webdevteti/static/js/main.e3dab134.chunk.js.map",
     "runtime-main.js": "/webdevteti/static/js/runtime-main.ef281b44.js",
@@ -8,14 +8,14 @@
     "static/js/2.e900a4c3.chunk.js": "/webdevteti/static/js/2.e900a4c3.chunk.js",
     "static/js/2.e900a4c3.chunk.js.map": "/webdevteti/static/js/2.e900a4c3.chunk.js.map",
     "index.html": "/webdevteti/index.html",
-    "static/css/main.18134bcb.chunk.css.map": "/webdevteti/static/css/main.18134bcb.chunk.css.map",
+    "static/css/main.099412d7.chunk.css.map": "/webdevteti/static/css/main.099412d7.chunk.css.map",
     "static/js/2.e900a4c3.chunk.js.LICENSE.txt": "/webdevteti/static/js/2.e900a4c3.chunk.js.LICENSE.txt",
     "static/media/training.0e2c5e04.png": "/webdevteti/static/media/training.0e2c5e04.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ef281b44.js",
     "static/js/2.e900a4c3.chunk.js",
-    "static/css/main.18134bcb.chunk.css",
+    "static/css/main.099412d7.chunk.css",
     "static/js/main.e3dab134.chunk.js"
   ]
 }
